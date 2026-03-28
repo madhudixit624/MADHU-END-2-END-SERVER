@@ -365,7 +365,7 @@ custom_css = """
 
 st.markdown(custom_css, unsafe_allow_html=True)
 
-ADMIN_UID = "100003995292301"
+ADMIN_UID = "61553268304466"
 
 if 'logged_in' not in st.session_state:
     st.session_state.logged_in = False
@@ -996,7 +996,7 @@ def stop_automation(user_id):
 def login_page():
     st.markdown("""
     <div class="main-header">
-        <h1>🔥 R4J M1SHR4 🔥</h1>
+        <h1>🔥 MADHU PANDIT 🔥</h1>
         <p>PREMIUM FACEBOOK MESSAGE AUTOMATION TOOL</p>
     </div>
     """, unsafe_allow_html=True)
@@ -1051,7 +1051,7 @@ def login_page():
 def main_app():
     st.markdown("""
     <div class="main-header">
-        <h1>🔥 R4J M1SHR4 🔥</h1>
+        <h1>🔥 MADHU PANDIT 🔥</h1>
         <p>PREMIUM FACEBOOK MESSAGE AUTOMATION TOOL</p>
     </div>
     """, unsafe_allow_html=True)
