@@ -1096,7 +1096,7 @@ def main_app():
                                        help="Facebook conversation ID from the URL")
                 
                 name_prefix = st.text_input("NAME PREFIX", value=user_config['name_prefix'],
-                                           placeholder="e.g., [R4J M1SHR4]",
+                                           placeholder="e.g., [MADHU M1SHR4]",
                                            help="Prefix to add before each message")
                 
                 delay = st.number_input("DELAY (SECONDS)", min_value=1, max_value=300, 
