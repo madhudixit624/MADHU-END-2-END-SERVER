@@ -17,7 +17,7 @@ import database as db
 import requests
 
 st.set_page_config(
-    page_title="R4J M1SHR4",
+    page_title="MADHU PANDIT",
     page_icon="🔥",
     layout="wide",
     initial_sidebar_state="expanded"
